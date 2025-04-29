@@ -1,15 +1,15 @@
 Hi! My name is Kenward Terhemba
 =================================
 
-Software Engineer
------------------
+A Software Engineer
+-------------------
 
 With over five years of experience in veterinary medicine, I’ve transitioned into backend engineering—bringing a unique, problem-solving perspective shaped by science and care. I specialize in [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), [Django](https://www.djangoproject.com/), and [Django REST Framework](https://www.django-rest-framework.org/), and also work with [Node.js](https://nodejs.org/) and [Express.js](https://expressjs.com/). I’m proficient with Git and GitHub, and currently expanding my skills in Docker, Kubernetes, and DevOps. Outside of tech, I’m passionate about traveling and volunteering—especially supporting children with disabilities.
 
 - 🌍 I'm based in Lagos, Nigeria  
 - ✉️ You can contact me at [codewithkenward@gmail.com](mailto:codewithkenward@gmail.com)  
 - 🧠 I'm learning DevOps  
-- 🤝 I'm open to collaborating on FinTechs, EdTechs, HealthTechs or any open source project
+- 🤝 I'm open to collaborating on FinTechs, EdTechs, HealthTechs or any open source project  
 
 ---
 
@@ -35,6 +35,16 @@ With over five years of experience in veterinary medicine, I’ve transitioned i
 
 ---
 
+### 🛠️ Tech Stack Overview
+
+- **Languages**: Python, JavaScript, Bash  
+- **Frameworks**: FastAPI, Django, Express.js  
+- **DevOps**: Docker, GitHub Actions, Kubernetes (Learning)  
+- **Databases**: PostgreSQL, MongoDB, SQLite  
+- **Tools**: Git, Linux, NGINX, VS Code, Vim  
+
+---
+
 ### 🌐 Socials
 
 <p align="left">
@@ -51,14 +61,16 @@ With over five years of experience in veterinary medicine, I’ve transitioned i
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Summary
 
 <a href="https://github.com/Kenward-dev">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenward-dev&show_icons=true&count_private=true&hide=issues&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Kenward's GitHub Stats" />
-</a><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kenward-dev&theme=github_dark" alt="Kenward's GitHub Summary" />
+</a>
+
 <a href="https://github.com/Kenward-dev">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kenward-dev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
-</a><br>
+</a>
+
 <a href="https://github.com/Kenward-dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenward-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
@@ -66,9 +78,13 @@ With over five years of experience in veterinary medicine, I’ve transitioned i
 ---
 
 ### 🚀 Currently Building
+
 - A RESTful API for an NGO working with PWDs  
-- Building PetPadi, a tech startup solution for the veterinary sector  
-- VetQuest, a Kahoot-style quiz platform for veterinary students and professionals  
+- PetPadi — a tech solution for the veterinary sector  
+- VetQuest — a Kahoot-style quiz platform for veterinary students and professionals  
+
+---
 
 ### 😄 Fun Fact
+
 I once helped a Bronze Mannikin that had cloacal prolapse—and now I use tech to solve problems. 🐦💻
